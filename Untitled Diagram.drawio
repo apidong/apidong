@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T17:26:39.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="8M-qCgqbhng8ABhDJjje" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T17:33:49.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Ve5FY1yV_BKuJk8X4xSG" version="17.4.1" type="github">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
-    <mxGraphModel dx="4260" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4655" dy="1905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,8 +176,11 @@
         <mxCell id="AxM01Icy1FroBoTnt2VX-41" value="Tampilkan Error" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-10">
           <mxGeometry x="310" y="110" width="320" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-64" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=19;" edge="1" parent="AxM01Icy1FroBoTnt2VX-10" source="AxM01Icy1FroBoTnt2VX-53" target="AxM01Icy1FroBoTnt2VX-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AxM01Icy1FroBoTnt2VX-53" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-10">
-          <mxGeometry x="90" y="730" width="75" height="50" as="geometry" />
+          <mxGeometry x="102.5" y="730" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AxM01Icy1FroBoTnt2VX-54" value="Ambil Pesan&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-10">
           <mxGeometry x="80" y="840" width="120" height="60" as="geometry" />
@@ -187,6 +190,35 @@
         </mxCell>
         <mxCell id="AxM01Icy1FroBoTnt2VX-62" value="Tampilkan Error" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-10">
           <mxGeometry x="340" y="760" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-65" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=19;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AxM01Icy1FroBoTnt2VX-10" source="AxM01Icy1FroBoTnt2VX-62" target="AxM01Icy1FroBoTnt2VX-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-74" value="Tampilkan Error" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-10">
+          <mxGeometry x="810" y="1290" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-76" value="Jika Error" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=19;" edge="1" parent="AxM01Icy1FroBoTnt2VX-10" source="AxM01Icy1FroBoTnt2VX-75" target="AxM01Icy1FroBoTnt2VX-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-82" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=19;" edge="1" parent="AxM01Icy1FroBoTnt2VX-10" source="AxM01Icy1FroBoTnt2VX-75" target="AxM01Icy1FroBoTnt2VX-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-75" value="Catch Error" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-10">
+          <mxGeometry x="800" y="1005" width="240" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-84" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=19;" edge="1" parent="AxM01Icy1FroBoTnt2VX-10" source="AxM01Icy1FroBoTnt2VX-80" target="AxM01Icy1FroBoTnt2VX-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-80" value="Kelola Hasil Respon" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-10">
+          <mxGeometry x="490" y="1090" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-83" value="Update Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-10">
+          <mxGeometry x="210" y="1000" width="170" height="240" as="geometry" />
         </mxCell>
         <mxCell id="AxM01Icy1FroBoTnt2VX-11" value="Aplikasi Opendk" style="swimlane;startSize=50;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="920" y="800" width="1290" height="1590" as="geometry" />
@@ -232,14 +264,29 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AxM01Icy1FroBoTnt2VX-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-11">
+        <mxCell id="AxM01Icy1FroBoTnt2VX-58" value="Kirim Respon API" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-11">
           <mxGeometry y="620" width="1290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-67" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=19;" edge="1" parent="AxM01Icy1FroBoTnt2VX-11" source="AxM01Icy1FroBoTnt2VX-59" target="AxM01Icy1FroBoTnt2VX-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AxM01Icy1FroBoTnt2VX-59" value="API" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-11">
           <mxGeometry x="80" y="830" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AxM01Icy1FroBoTnt2VX-61" value="&lt;span&gt;cek&amp;nbsp;&lt;/span&gt;&lt;b&gt;Kode Desa&lt;/b&gt;&lt;span&gt;&amp;nbsp;dan&amp;nbsp;&lt;/span&gt;&lt;b&gt;Authorization&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-11">
+        <mxCell id="AxM01Icy1FroBoTnt2VX-69" value="Verif Berhasil" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=19;" edge="1" parent="AxM01Icy1FroBoTnt2VX-11" source="AxM01Icy1FroBoTnt2VX-61" target="AxM01Icy1FroBoTnt2VX-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-61" value="Verif&amp;nbsp;&lt;b&gt;Kode Desa&lt;/b&gt;&lt;span&gt;&amp;nbsp;dan&amp;nbsp;&lt;/span&gt;&lt;b&gt;Authorization&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-11">
           <mxGeometry x="480" y="765" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-78" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=19;" edge="1" parent="AxM01Icy1FroBoTnt2VX-11" source="AxM01Icy1FroBoTnt2VX-68" target="AxM01Icy1FroBoTnt2VX-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-68" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-11">
+          <mxGeometry x="470" y="1070" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-73" value="Kirim Respon API" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="AxM01Icy1FroBoTnt2VX-11">
+          <mxGeometry x="90" y="1080" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AxM01Icy1FroBoTnt2VX-32" value="Kirim lewat APi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="760" y="1310" width="140" height="30" as="geometry" />
@@ -259,6 +306,14 @@
               <mxPoint x="1535" y="1520" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-66" value="Verrif GAgal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;fontFamily=Helvetica;" vertex="1" connectable="0" parent="AxM01Icy1FroBoTnt2VX-63">
+          <mxGeometry x="-0.4148" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxM01Icy1FroBoTnt2VX-77" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=19;" edge="1" parent="1" source="AxM01Icy1FroBoTnt2VX-73" target="AxM01Icy1FroBoTnt2VX-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
