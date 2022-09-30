@@ -1,14 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T05:59:00.031Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_EVkBAXCKtdZwVzFnmgj" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T06:51:10.041Z" agent="5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="gDDKbFoyQDM_v4AUVvjk" version="20.3.7" type="github">
   <diagram id="MyMUzops0rtNQVNb--UK" name="Page-1">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Gjuc3wmJopVquXNQe5i6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gjuc3wmJopVquXNQe5i6-1" target="Gjuc3wmJopVquXNQe5i6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Gjuc3wmJopVquXNQe5i6-1" value="Pengajuan surat LAYANAN MANDIRI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gjuc3wmJopVquXNQe5i6-2" value="S" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gjuc3wmJopVquXNQe5i6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gjuc3wmJopVquXNQe5i6-2" target="Gjuc3wmJopVquXNQe5i6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gjuc3wmJopVquXNQe5i6-2" value="periksa pengajuan permohonan oleh admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gjuc3wmJopVquXNQe5i6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gjuc3wmJopVquXNQe5i6-3" target="Gjuc3wmJopVquXNQe5i6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gjuc3wmJopVquXNQe5i6-3" value="Status surat di layanan mandiri menjadi menunggu tanda tangan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gjuc3wmJopVquXNQe5i6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gjuc3wmJopVquXNQe5i6-4" target="Gjuc3wmJopVquXNQe5i6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gjuc3wmJopVquXNQe5i6-4" value="verifikasi surat oleh admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gjuc3wmJopVquXNQe5i6-5" value="status surat layanan mandiri menjadi siap di ambil&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
