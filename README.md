@@ -152,12 +152,20 @@ Hello! I'm **Mokhamad Afila**, a passionate **Frontend Developer** based in **In
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apidong&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apidong&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=apidong&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apidong&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apidong&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=apidong&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apidong&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=apidong&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
