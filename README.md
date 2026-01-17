@@ -189,6 +189,9 @@ Hello! I'm **Mokhamad Afila**, a passionate **Frontend Developer** based in **In
 
 ## 💼 Current Work
 
+- 👨‍💼 **DevOps Team Coordinator** - Leading and coordinating DevOps team activities
+- 🔍 **Code Review Lead** - Conducting thorough reviews of team's work and code quality
+- 🖥️ **Server Administrator** - Managing and maintaining server infrastructure
 - 🔭 Building modern web applications with Angular and TypeScript
 - 🌟 Exploring new frontend frameworks and libraries
 - 📚 Sharing knowledge and contributing to the developer community
