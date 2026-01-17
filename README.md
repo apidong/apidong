@@ -153,11 +153,28 @@ Hello! I'm **Mokhamad Afila**, a passionate **Frontend Developer** based in **In
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apidong&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apidong&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apidong&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=apidong&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+### 📈 Detailed Contribution Metrics
+
+<div align="center">
+  
+| Metric | Count |
+|--------|-------|
+| 📝 **Total Commits** | ![Commits](https://img.shields.io/badge/dynamic/json?color=success&label=commits&query=%24.total_commits&url=https://api.github-readme-stats.vercel.app/api?username=apidong%26count_private=true&style=flat-square) |
+| 🔀 **Pull Requests** | ![PRs](https://img.shields.io/badge/dynamic/json?color=blue&label=PRs&query=%24.total_prs&url=https://api.github-readme-stats.vercel.app/api?username=apidong%26count_private=true&style=flat-square) |
+| ✅ **Merged PRs** | ![Merged](https://img.shields.io/badge/dynamic/json?color=purple&label=merged&query=%24.merged_prs&url=https://api.github-readme-stats.vercel.app/api?username=apidong%26count_private=true&style=flat-square) |
+| 🐛 **Issues** | ![Issues](https://img.shields.io/badge/dynamic/json?color=orange&label=issues&query=%24.total_issues&url=https://api.github-readme-stats.vercel.app/api?username=apidong%26count_private=true&style=flat-square) |
+| ⭐ **Stars Earned** | ![Stars](https://img.shields.io/badge/dynamic/json?color=yellow&label=stars&query=%24.total_stars&url=https://api.github-readme-stats.vercel.app/api?username=apidong%26count_private=true&style=flat-square) |
+| 👥 **Code Reviews** | ![Reviews](https://img.shields.io/badge/dynamic/json?color=red&label=reviews&query=%24.total_reviews&url=https://api.github-readme-stats.vercel.app/api?username=apidong%26count_private=true&style=flat-square) |
+
+<sub>📊 Statistics include both public and private repositories</sub>
+
 </div>
 
 <div align="center">
